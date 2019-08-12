@@ -1,9 +1,9 @@
 ## Application
 
-##Wine/Beer Cellar App using CRUD (Create, Read, Update and Delete) powered by ReactJS, Axios and Evergreen
+## Wine/Beer Cellar App using CRUD (Create, Read, Update and Delete) powered by ReactJS, Axios and Evergreen
 
 
-##Application Requirements:
+## Application Requirements:
   - ReactJS^16.7.0 or higher
   - Firebase^5.7.2 or higher
   - Axios^0.19.0 or higher
@@ -11,20 +11,20 @@
 
 #Screenshots:
 
-Home Page
+## Home Page
 ![Application Main Page](https://firebasestorage.googleapis.com/v0/b/wine-beer-app.appspot.com/o/Screen%20Shot%202019-08-12%20at%208.14.58%20PM.png?alt=media&token=a552f15a-5813-47ac-a5df-b3673ca6cebd)
 
-Single Wine View
+## Single Wine View
 ![Application Single Wine View](https://firebasestorage.googleapis.com/v0/b/wine-beer-app.appspot.com/o/Screen%20Shot%202019-08-12%20at%208.20.20%20PM.png?alt=media&token=6b38d125-746e-4a0b-986e-dec99882c7ce)
 
-Wine Edit Screen
+## Wine Edit Screen
 ![Application Wine Edit Screen](https://firebasestorage.googleapis.com/v0/b/wine-beer-app.appspot.com/o/Screen%20Shot%202019-08-12%20at%208.24.36%20PM.png?alt=media&token=9188ca1c-25fd-427f-9f41-88befa075bf6)
 
-Add New Wine Screen
+## Add New Wine Screen
 ![Application Add New Wine Screen](https://firebasestorage.googleapis.com/v0/b/wine-beer-app.appspot.com/o/Screen%20Shot%202019-08-12%20at%208.25.35%20PM.png?alt=media&token=88239b8a-5dc3-4e40-82be-286cfa68cfbd)
 
 
-Wine List Screen View
+## Wine List Screen View
 ![Application View Wine Screen](https://firebasestorage.googleapis.com/v0/b/wine-beer-app.appspot.com/o/Screen%20Shot%202019-08-12%20at%208.39.15%20PM.png?alt=media&token=d1cee723-8d63-4e52-b5ad-2d223739932a)
 
 ## Firebase Setup
